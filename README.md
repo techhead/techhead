@@ -1,6 +1,7 @@
+### Hi there 👋 I'm Jonathan aka [TECHHEAD](https://techhead.biz)
 <img src="https://techhead.biz/leaning_techhead.png" align="right">
 
-### Hi there 👋 I'm Jonathan aka [TECHHEAD](https://techhead.biz)
+---
 
 I'm a full-stack software developer in the process of relocating to Germany and seeking [Letters of Intent](https://allaboutberlin.com/guides/freelance-visa-letter-of-intent) for hire as a freelancer by German entities.
 
