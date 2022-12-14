@@ -7,6 +7,22 @@ I'm a full-stack software developer in the process of relocating to Germany and 
 
 View my professional history on [LinkedIn](https://www.linkedin.com/in/techhead/). Please connect if you are interested in working together.
 
+<details>
+  <summary>Find me elsewhere</summary>
+
+  * DEV: [@techhead](https://dev.to/techhead)
+  * LinkedIn: [@techhead](https://www.linkedin.com/in/techhead/)
+  * Medium: [@jonathanhawkes](https://medium.com/@jonathanhawkes)
+  * Pinterest: [@jonathanhawkes](https://www.pinterest.com/jonathanhawkes/)
+  * [Quora](https://www.quora.com/profile/Jonathan-Hawkes)
+  * Reddit: [u/jonathanhawkes](https://www.reddit.com/user/jonathanhawkes)
+  * [Stack Overflow](https://stackoverflow.com/users/48793/jonathan-hawkes)
+  * [Substack](https://substack.com/profile/33660518-jonathan-hawkes)
+  * Tumblr: [@jonathanhawkes](https://jonathanhawkes.tumblr.com/)
+  * Twitter: [@jonathanhawkes](https://twitter.com/jonathanhawkes)
+  * YouTube: [@jonhawkes](https://www.youtube.com/user/jonhawkes)
+
+</details>
 <!--
 **techhead/techhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
