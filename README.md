@@ -3,9 +3,21 @@
 <img src="https://techhead.biz/leaning_techhead.png" width="248" height="400" align="right">
 <img src="https://techhead.biz/Pix.gif" width="300" height="1">
 
-I'm a full-stack software developer in the process of relocating to Germany and seeking [Letters of Intent](https://allaboutberlin.com/guides/freelance-visa-letter-of-intent) for hire as a freelancer by German entities.
+I'm a full-stack software developer in the process of relocating to Germany and seeking [Letters of Intent](https://github.com/techhead/techhead/issues/1) for hire as a freelancer by German entities.
 
 View my professional history on [LinkedIn](https://www.linkedin.com/in/techhead/). Please connect if you are interested in working together.
+
+<details>
+  <summary>
+    Some <a href="https://github.com/techhead/techhead/issues">Issues</a> of interest
+  </summary>
+
+  - [ ] [Secure 3 Letters of Intent for hire by German entities](https://github.com/techhead/techhead/issues/1)
+  - [ ] [Setup a Mastodon instance](https://github.com/techhead/techhead/issues/2)
+  - [ ] [Play with ActivityPub](https://github.com/techhead/techhead/issues/3)
+  - [ ] [Play with Ruby/Rails](https://github.com/techhead/techhead/issues/4)
+
+</details>
 
 <details>
   <summary>Find me elsewhere</summary>
