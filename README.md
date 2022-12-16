@@ -16,6 +16,7 @@ View my professional history on [LinkedIn](https://www.linkedin.com/in/techhead/
   - [ ] [Setup a Mastodon instance](https://github.com/techhead/techhead/issues/2)
   - [ ] [Play with ActivityPub](https://github.com/techhead/techhead/issues/3)
   - [ ] [Play with Ruby/Rails](https://github.com/techhead/techhead/issues/4)
+  - [ ] https://github.com/techhead/techhead/issues/4
 
 </details>
 
