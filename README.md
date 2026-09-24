@@ -3,6 +3,8 @@
 <img src="https://techhead.biz/leaning_techhead.png" width="248" height="400" align="right">
 <img src="https://techhead.biz/Pix.gif" width="300" height="1">
 
+[Buy my van](https://www.vanviewer.com/van/2004-freightliner-sprinter-for-sale-in-taos-new-mexico/), Whimsy 🚐.
+
 View my professional history on [LinkedIn](https://www.linkedin.com/in/techhead/). Please connect if you are interested in working together.
 
 <details>
